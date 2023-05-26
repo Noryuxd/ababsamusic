@@ -65,7 +65,7 @@ function App() {
     <>
       <nav className="navbar navbar-expand-lg">
         <div className="container-fluid">
-          <a className="navbar-brand" href="/">
+          <a className="navbar-brand" href="/ababsamusic">
             <i className="bi bi-music-note-list mx-3 fontest"></i><span className="fontest">ABSMusic</span>
           </a>
 
