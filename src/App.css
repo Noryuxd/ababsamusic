@@ -47,9 +47,11 @@
   color: grey;
   border-radius: 90px;
   text-align: center;
+  transition: all 0.3s;
+  margin-right: 20px;
 }
 .zbi:focus {
-  outline: none;
+  outline: 1px solid black;
 }
 
 input#search-input::-webkit-search-cancel-button,
@@ -63,4 +65,9 @@ input#search-input::-webkit-search-results-decoration {
 }
 .fontest2 {
   font-family: 'Raleway', sans-serif;
+}
+.btn-dark {
+  border-radius: 30px;
+  width: 100px;
+  padding: 10px;
 }

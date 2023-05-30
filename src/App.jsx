@@ -23,7 +23,7 @@ function App() {
       );
 
       if (!response.ok) {
-        throw new Error("Failed to fetch music data");
+        throw new Error("Please type a valid search !");
       }
 
       const jsonData = await response.json();
@@ -52,7 +52,7 @@ function App() {
         );
 
         if (!response.ok) {
-          throw new Error("Failed to fetch token");
+          throw new Error("Please type valid search !");
         }
 
         const jsonData = await response.json();
@@ -96,7 +96,7 @@ function App() {
           </div>
         </div>
         <div className="row py-5">
-          <div className="col-12 py-5 text-center">
+          <div className="col-12 py-5 text-center animate__animated animate__fadeInUp">
             <h1>
               <i className="bi bi-music-note-list mx-3 fontest"></i>
               <span className="fontest">ABSMusic</span>

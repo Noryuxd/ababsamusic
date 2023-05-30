@@ -1,6 +1,6 @@
 function MusicCard({ element }) {
   return (
-    <div key={element.id} className="col-lg-3 col-md-6 py-2">
+    <div key={element.id} className="col-lg-3 col-md-6 py-2 animate__animated animate__fadeInUp">
       <div className="card">
         <div className="ratio ratio-1x1 bg-secondary bg-opacity-25">
           <img
