@@ -109,7 +109,7 @@ function App() {
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-outline-dark btn-lg"
-                href="https://github.com/Noryuxd?tab=repositories"
+                href="https://github.com/Noryuxd"
               >
                 <i className="bi bi-github mx-2"></i>
                 <span className="fontest2">Github</span>
