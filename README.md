@@ -1,6 +1,6 @@
 # AbabsaMusic - Your Ultimate Music Companion
 
-Welcome to AbabsaMusic, your first React app powered by the Spotify API. This project aims to create a seamless and enjoyable music exploration experience, allowing users to discover new tracks and enjoy their favorite tunes effortlessly.
+Welcome to AbabsaMusic, my first ever React app powered by the Spotify API. This project aims to create a seamless and enjoyable music exploration experience, allowing users to discover new tracks and enjoy their favorite tunes effortlessly.
 
 [View Project](https://noryuxd.github.io/ababsamusic/)
 
@@ -13,6 +13,13 @@ Welcome to AbabsaMusic, your first React app powered by the Spotify API. This pr
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
+## Preview
+
+<p align="center">
+  <img src="https://i.ibb.co/Q8mfPRq/main.png" >
+  <hr>
+  <img src="https://i.ibb.co/HP1v6Zt/search.png" >
+</p>
 ## About the Project
 
 AbabsaMusic is a React-based web application that leverages the Spotify API to provide users with an immersive music discovery experience. Whether you're looking to find new tracks, create playlists, or simply enjoy your favorite artists, AbabsaMusic has got you covered.
